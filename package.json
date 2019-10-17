@@ -1,0 +1,27 @@
+{
+  "name": "wicked",
+  "version": "1.0.0",
+  "description": "A dark and scary CSS framework",
+  "scripts": {
+    "build": "echo \"No build action is currently specified.\" && exit 1",
+    "test": "echo \"No test action is currently specified.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lordofgithub/wicked.git"
+  },
+  "keywords": [
+    "css",
+    "design",
+    "framework"
+  ],
+  "author": "George Pickering",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lordofgithub/wicked/issues"
+  },
+  "homepage": "https://github.com/lordofgithub/wicked#readme",
+  "dependencies": {
+    "sass": "^1.23.0"
+  }
+}
