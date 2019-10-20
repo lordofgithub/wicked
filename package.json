@@ -21,7 +21,7 @@
     "url": "https://github.com/lordofgithub/wicked/issues"
   },
   "homepage": "https://github.com/lordofgithub/wicked#readme",
-  "dependencies": {
+  "devDependencies": {
     "sass": "^1.23.0"
   }
 }
